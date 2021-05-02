@@ -1,0 +1,15 @@
+.active{
+    background: linear-gradient(90deg, rgb(66, 2, 94), rgb(0, 78, 194));
+}
+nav {
+background:transparent;
+position:sticky;
+display:flex;
+justify-content:center;
+align-items:center;
+height:80px;
+font-family:'Poppins', sans-serif;
+top:0;
+width: 100%;
+z-index:999;
+}
